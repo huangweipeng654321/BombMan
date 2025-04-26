@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bald Pitate
+  m_Controller: {fileID: 9100000, guid: d3cb7c5570e6d674a9bacc8c99a747d8, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f31b3656641ccbf49a4ce12872ca0283, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6cecbea6fb0a2a949bc1d4467831a96c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8cbabe4951960134c94416a828437a4d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6cecbea6fb0a2a949bc1d4467831a96c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 949e0e6d9aa94b5458ceba5ea83e7464, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e4bc578ee546b454eab51e72b1bd9657, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 93fa3d6d2fad65d469c9ade995dd4011, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6950323bad8dc484b821395761796913, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c638381578b812a45843f74d95878b12, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6801252405b055c4f9aeae3a695270b8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 896af11518726244e8717269b85b88dc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6fe5652e83463724380639db3b498db9, type: 2}
