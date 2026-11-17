@@ -1,9 +1,9 @@
 # Little Bomb Man
 
-## Background
+## 📖 Background
 A Unity 2D pixel platformer exploring physics-based gameplay and complete game loops.
 
-## Functionality
+## 🎮 Functionality
 Physics-driven projectiles, tilemap levels, UI state management, enemy patrol and varied animation states.
 
 ## 🛠️ Tech Stack
